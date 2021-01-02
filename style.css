@@ -1,0 +1,123 @@
+h1 {
+  text-align: center;
+  color: rgb(54, 1, 1);
+}
+.navbar {
+  border-radius: 50px;
+  border: 20px solid tomato;
+}
+.navbar ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.navbar li {
+  float: left;
+  font-size: 25px;
+}
+.navbar li a {
+  display: block;
+  color: rgb(95, 14, 14);
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li a:hover {
+  background-color: brown;
+}
+body {
+  background-color: rgb(255, 160, 122);
+}
+.blog {
+  border: 10px solid rgb(114, 85, 80);
+  border-radius: 50px;
+  margin: 30px;
+  padding: 20px 40px;
+  background-color: rgb(47, 79, 79);
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  font-size: 25px;
+  font-family: sans-serif;
+  color: rgb(255, 254, 251);
+}
+
+#Fasiakhali {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+
+#Badarkhali {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Barawtali {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#BheolaManikChar {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Bomobilchari {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Chiringa {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Dulhazara {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#PurbaBarabheola {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Kakara {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Khutakhali {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Lakhyarchar {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Harbang {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Kaiarbil {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Saharbil {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#PaschimBaraBheola {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Demushia {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Konakhali {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+#Surajpur-Manikpur {
+  text-align: center;
+  color: rgb(141, 233, 175);
+}
+.footer {
+  text-align: center;
+  font-size: 25px;
+}
